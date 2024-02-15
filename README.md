@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://github.com/climax1115">
+  <a href="https://github.com/Dreamskill-Prog">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&duration=2000&pause=1000&color=0C6CF7&center=true&vCenter=true&random=false&width=1200&height=100&lines=Senior+Blockchain+Developer;5+years+of+experience;High+productivity+%26+Best+communication">
   </a>
 </p>
 <p align="center">
-  <img align="center" src="./assets/blockchainLogo.png" style = "width: -webkit-fill-available;"/>
+  <img align="center" src="blockchainLogo.png" style = "width: -webkit-fill-available;"/>
 </p>
 Hello, I am a blockchain developer with strong logic and deepest comprehension about the nature of blockchain, hence providing every client perfect product in time. I always find pleasure in working with clients who have brilliant ideas.
 
@@ -14,31 +14,31 @@ Hello, I am a blockchain developer with strong logic and deepest comprehension a
   <tr>
     <td align="center" width="80">
       <a href="#macropower-tech">
-        <img src="./assets/logo/ethereum.png" width="60" height="60" alt="Ethereum" />
+        <img src="ethereum.png" width="60" height="60" alt="Ethereum" />
       </a>
       <br>Ethereum
     </td>
      <td align="center" width="80">
       <a href="#macropower-tech">
-        <img src="./assets/logo/solana.png" width="70" height="60" alt="Solana" />
+        <img src=".solana.png" width="70" height="60" alt="Solana" />
       </a>
       <br>Solana
     </td>
     <td align="center" width="80">
       <a href="#macropower-tech">
-        <img src="./assets/logo/polygon.png" width="60" height="60" alt="Polygon" />
+        <img src="polygon.png" width="60" height="60" alt="Polygon" />
       </a>
       <br>Polygon
     </td>
     <td align="center" width="80">
       <a href="#macropower-tech">
-        <img src="./assets/logo/avalanche.png" width="60" height="60" alt="Avalanche" />
+        <img src="avalanche.png" width="60" height="60" alt="Avalanche" />
       </a>
       <br>Avalanche
     </td>
     <td align="center" width="80">
       <a href="#macropower-tech">
-        <img src="./assets/logo/cardano.png" width="60" height="60" alt="Cardano" />
+        <img src="cardano.png" width="60" height="60" alt="Cardano" />
       </a>
       <br>Cardano
     </td>
